@@ -1,0 +1,39 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "nombre": "editado",
+      "precio": "2000"
+    },
+    {
+      "id": 2,
+      "nombre": "Rib Eye ",
+      "precio": "300"
+    },
+    {
+      "nombre": "harry potter",
+      "precio": "150",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "dsfd",
+      "precio": "2444"
+    },
+    {
+      "nombre": "werq",
+      "precio": "254234",
+      "id": 5
+    },
+    {
+      "nombre": "yhwrth",
+      "precio": "657447",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nombre": "gfdgsg",
+      "precio": "43563"
+    }
+  ]
+}
